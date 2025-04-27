@@ -17,7 +17,7 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.plugin.Plugin;
 import org.bukkit.scheduler.BukkitScheduler;
-import org.bukkit.scheduler.GlobalRegionScheduler;
+import io.papermc.paper.threadedregions.scheduler.GlobalRegionScheduler;
 
 public class CustomEventListener implements Listener {
     private final IAntiBotPlugin plugin;
