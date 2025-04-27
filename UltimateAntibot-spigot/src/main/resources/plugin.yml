@@ -5,6 +5,7 @@ api-version: 1.13
 authors: [ Kr1S_D ]
 description: Another antibot plugin!
 load: STARTUP
+folia-supported: true
 commands:
   ultimateantibot:
     aliases: [ab, uab]
